@@ -1,0 +1,19 @@
+{
+  "name": "ink",
+  "version": "0.0.1",
+  "description": "Quill API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quill-platform/ink.git"
+  },
+  "author": "Mark Thomas <markthethomas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quill-platform/ink/issues"
+  },
+  "homepage": "https://github.com/quill-platform/ink#readme"
+}
